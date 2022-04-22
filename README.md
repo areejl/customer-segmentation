@@ -1,4 +1,4 @@
-# customer-segmentation
+# Customer-segmentation
 ## Customer Relationship Management, Customer Segmentation, K-Means Clustering 
 
 
