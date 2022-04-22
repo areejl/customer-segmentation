@@ -1,25 +1,27 @@
 # customer-segmentation
-Customer Relationship Management, Customer Segmentation, Clustering, K-Means Clustering 
-Introduction
+Customer Relationship Management, Customer Segmentation, K-Means Clustering 
+
+
+#Introduction
 Customer segmentation is mostly used to optimize your marketing strategies, maximize a customer's value to your business, and improve customer experience and satisfaction and This will increase the success of your marketing campaign
 
 
-Problem
+#Problem
 The marketing team can plan the strategy accordingly, and they must understand the customers, such as who are your target customers.
 
 
-Description of the dataset
+#Description of the dataset
 -Unique ID assigned to the customer
 -Gender
 -Annual income
 -Age
 -Score assigned by the mall based on customer behavior and spending nature
 
-Framing the problem
+#Framing the problem
 clustering our customers into groups using  K-Means Clustering 
 
 
-Exploring the data – Heatmap – correlation 
+#Exploring the data – Heatmap – correlation 
 
 'Annual Income (k$)' are correlated to our target variable ‘Spending Score (1-100)’. 
 Variable ‘Age' are negatively correlated to ‘Spending Score (1-100)’
