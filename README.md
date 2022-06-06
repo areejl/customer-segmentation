@@ -2,7 +2,9 @@
 ## Customer Relationship Management, Customer Segmentation, K-Means Clustering 
 
 
-######**1. ntroduction**
+### 1. ntroduction
+
+
 **Customer segmentation is mostly used to optimize your marketing strategies, maximize a customer's value to your business, and improve customer experience and satisfaction and This will increase the success of your marketing campaign**
 
 
