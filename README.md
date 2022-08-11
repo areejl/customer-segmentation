@@ -60,14 +60,8 @@
 > ![image](https://user-images.githubusercontent.com/69022024/164135462-d8e6d16b-029c-49d8-b914-19a939a75a54.png)
 >
 
-## **8. Elbow method**
 
-> ### **Find the optimal K** ### 
-> 
-> ![image](https://user-images.githubusercontent.com/69022024/164135525-063a0d48-9f09-425f-b53a-6163ebc28055.png)
->
-
-## **9. Bulid model K-mean Cluster where k = 5**
+## **8. Bulid model K-mean Cluster where k = 5**
 >
 > ![image](https://user-images.githubusercontent.com/69022024/164135622-a1aa51f8-84ce-4755-a4b2-0db9569624f9.png)
 >
