@@ -67,7 +67,7 @@
 >
 
 ## **Now for each cluster, we can use different marketing strategies based on customer's behavior**
-## **For example, we can offer cash back to customers with high income and low spending to encourage them to buy :wink: !**
+## **For example, we can offer cash back to customers with high income and low spending to encourage them to buy !**
 
 
 
